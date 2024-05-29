@@ -1,0 +1,161 @@
+2016-03-17T15:20:00.931Z - info: cron clients: 0 process pid: 29253 workerId: 2
+2016-03-17T15:20:00.962Z - info: cron clients: 0 process pid: 29248 workerId: 1
+2016-03-17T15:22:53.800Z - info: memory stats, 2016-03-17T17:22:53+02:00 info: {"num_full_gc":1,"num_inc_gc":18,"heap_compactions":1,"usage_trend":0,"estimated_base":83939928,"current_base":83939928,"min":0,"max":0}
+2016-03-17T15:22:53.801Z - info: memory stats, 2016-03-17T17:22:53+02:00 info: {"num_full_gc":2,"num_inc_gc":18,"heap_compactions":2,"usage_trend":0,"estimated_base":73752808,"current_base":73752808,"min":0,"max":0}
+2016-03-17T18:01:16.767Z - info: memory stats, 2016-03-17T20:01:16+02:00 info: {"num_full_gc":1,"num_inc_gc":12,"heap_compactions":1,"usage_trend":0,"estimated_base":82036360,"current_base":82036360,"min":0,"max":0}
+2016-03-17T18:01:16.768Z - info: memory stats, 2016-03-17T20:01:16+02:00 info: {"num_full_gc":2,"num_inc_gc":12,"heap_compactions":2,"usage_trend":0,"estimated_base":72089808,"current_base":72089808,"min":0,"max":0}
+2016-03-17T18:05:47.997Z - info: memory stats, 2016-03-17T20:05:47+02:00 info: {"num_full_gc":1,"num_inc_gc":7,"heap_compactions":1,"usage_trend":0,"estimated_base":105548912,"current_base":105548912,"min":0,"max":0}
+2016-03-17T18:05:47.998Z - info: memory stats, 2016-03-17T20:05:47+02:00 info: {"num_full_gc":2,"num_inc_gc":7,"heap_compactions":2,"usage_trend":0,"estimated_base":77960112,"current_base":77960112,"min":0,"max":0}
+2016-03-17T18:06:18.529Z - info: memory stats, 2016-03-17T20:06:18+02:00 info: {"num_full_gc":3,"num_inc_gc":27,"heap_compactions":3,"usage_trend":0,"estimated_base":102443408,"current_base":102443408,"min":102443408,"max":102443408}
+2016-03-17T18:06:18.534Z - info: memory stats, 2016-03-17T20:06:18+02:00 info: {"num_full_gc":4,"num_inc_gc":27,"heap_compactions":4,"usage_trend":0,"estimated_base":73852928,"current_base":73852928,"min":73852928,"max":102443408}
+2016-03-17T18:08:05.955Z - info: SOCKET_CONNECTION:/#_7YaF0_Bkg9pmcZvAAAA process pid: 4705 workerId: master
+2016-03-17T18:08:27.366Z - info: memory stats, 2016-03-17T20:08:27+02:00 info: {"num_full_gc":1,"num_inc_gc":24,"heap_compactions":1,"usage_trend":0,"estimated_base":237561008,"current_base":237561008,"min":0,"max":0}
+2016-03-17T18:08:27.366Z - info: memory stats, 2016-03-17T20:08:27+02:00 info: {"num_full_gc":2,"num_inc_gc":24,"heap_compactions":2,"usage_trend":0,"estimated_base":80053760,"current_base":80053760,"min":0,"max":0}
+2016-03-17T18:08:28.482Z - info: SOCKET_CONNECTION:/#gksNhGWRb69ymA-eAAAB process pid: 4705 workerId: master
+2016-03-17T18:08:28.714Z - info: CONNECTION: process pid: 4705 workerId: master
+2016-03-17T18:08:30.187Z - info: memory stats, 2016-03-17T20:08:30+02:00 info: {"num_full_gc":3,"num_inc_gc":30,"heap_compactions":3,"usage_trend":0,"estimated_base":133795192,"current_base":133795192,"min":133795192,"max":133795192}
+2016-03-17T18:08:30.189Z - info: memory stats, 2016-03-17T20:08:30+02:00 info: {"num_full_gc":4,"num_inc_gc":30,"heap_compactions":4,"usage_trend":0,"estimated_base":83939488,"current_base":83939488,"min":83939488,"max":133795192}
+2016-03-17T18:08:32.905Z - info: memory stats, 2016-03-17T20:08:32+02:00 info: {"num_full_gc":5,"num_inc_gc":37,"heap_compactions":5,"usage_trend":0,"estimated_base":141894272,"current_base":141894272,"min":83939488,"max":141894272}
+2016-03-17T18:08:32.905Z - info: memory stats, 2016-03-17T20:08:32+02:00 info: {"num_full_gc":6,"num_inc_gc":37,"heap_compactions":6,"usage_trend":0,"estimated_base":76524800,"current_base":76524800,"min":76524800,"max":141894272}
+2016-03-17T18:08:36.120Z - info: SOCKET_CONNECTION:/#HxBtqV3tTr-FfD1QAAAC process pid: 4705 workerId: master
+2016-03-17T18:08:39.237Z - info: origin:http://localhost:3000
+2016-03-17T18:08:39.237Z - info: rememberMe: undefined
+2016-03-17T18:09:02.986Z - info: SOCKET_CONNECTION:/#DVFFnEHJEKfrn9FmAAAD process pid: 4705 workerId: master
+2016-03-17T18:09:03.197Z - info: CONNECTION: process pid: 4705 workerId: master
+2016-03-17T18:09:27.775Z - info: SOCKET_CONNECTION:/#Uxgl0jOBJzvJvtPmAAAE process pid: 4705 workerId: master
+2016-03-17T18:09:28.000Z - info: CONNECTION: process pid: 4705 workerId: master
+2016-03-17T18:10:00.238Z - info: cron clients: 1 process pid: 4705 workerId: master
+2016-03-17T18:10:04.037Z - info: memory stats, 2016-03-17T20:10:04+02:00 info: {"num_full_gc":7,"num_inc_gc":114,"heap_compactions":7,"usage_trend":0,"estimated_base":170939288,"current_base":170939288,"min":76524800,"max":170939288}
+2016-03-17T18:10:04.037Z - info: memory stats, 2016-03-17T20:10:04+02:00 info: {"num_full_gc":8,"num_inc_gc":114,"heap_compactions":8,"usage_trend":0,"estimated_base":86902352,"current_base":86902352,"min":76524800,"max":170939288}
+2016-03-17T18:15:00.262Z - info: cron clients: 1 process pid: 4705 workerId: master
+2016-03-17T18:15:02.155Z - info: memory stats, 2016-03-17T20:15:02+02:00 info: {"num_full_gc":9,"num_inc_gc":150,"heap_compactions":9,"usage_trend":0,"estimated_base":102421752,"current_base":102421752,"min":76524800,"max":170939288}
+2016-03-17T18:15:02.155Z - info: memory stats, 2016-03-17T20:15:02+02:00 info: {"num_full_gc":10,"num_inc_gc":150,"heap_compactions":10,"usage_trend":0,"estimated_base":100089629,"current_base":79100528,"min":76524800,"max":170939288}
+2016-03-17T18:20:00.269Z - info: cron clients: 1 process pid: 4705 workerId: master
+2016-03-17T18:20:02.363Z - info: memory stats, 2016-03-17T20:20:02+02:00 info: {"num_full_gc":11,"num_inc_gc":252,"heap_compactions":11,"usage_trend":4323.3,"estimated_base":99267109,"current_base":91864432,"min":76524800,"max":170939288}
+2016-03-17T18:20:02.363Z - info: memory stats, 2016-03-17T20:20:02+02:00 info: {"num_full_gc":12,"num_inc_gc":252,"heap_compactions":12,"usage_trend":4392.7,"estimated_base":97383988,"current_base":80435904,"min":76524800,"max":170939288}
+2016-03-17T18:20:04.262Z - info: memory stats, 2016-03-17T20:20:04+02:00 info: {"num_full_gc":13,"num_inc_gc":267,"heap_compactions":13,"usage_trend":4399.5,"estimated_base":97224993,"current_base":95794040,"min":76524800,"max":170939288}
+2016-03-17T18:20:04.263Z - info: memory stats, 2016-03-17T20:20:04+02:00 info: {"num_full_gc":14,"num_inc_gc":267,"heap_compactions":14,"usage_trend":4472.7,"estimated_base":95008880,"current_base":75063872,"min":75063872,"max":170939288}
+2016-03-17T18:25:39.801Z - info: SOCKET_CONNECTION:/#0s27zeElsCeE-UDlAAAA process pid: 5287 workerId: master
+2016-03-17T18:25:49.103Z - info: memory stats, 2016-03-17T20:25:49+02:00 info: {"num_full_gc":1,"num_inc_gc":23,"heap_compactions":1,"usage_trend":0,"estimated_base":238335792,"current_base":238335792,"min":0,"max":0}
+2016-03-17T18:25:49.104Z - info: memory stats, 2016-03-17T20:25:49+02:00 info: {"num_full_gc":2,"num_inc_gc":23,"heap_compactions":2,"usage_trend":0,"estimated_base":85046528,"current_base":85046528,"min":0,"max":0}
+2016-03-17T18:25:50.494Z - info: CONNECTION: process pid: 5287 workerId: master
+2016-03-17T18:25:50.562Z - info: SOCKET_CONNECTION:/#JUAn6EXFHvKkqc-kAAAB process pid: 5287 workerId: master
+2016-03-17T18:28:30.100Z - info: SOCKET_CONNECTION:/#ZNLpIFUmW-VuQPRzAAAA process pid: 5409 workerId: master
+2016-03-17T18:28:40.199Z - info: memory stats, 2016-03-17T20:28:40+02:00 info: {"num_full_gc":1,"num_inc_gc":23,"heap_compactions":1,"usage_trend":0,"estimated_base":238962704,"current_base":238962704,"min":0,"max":0}
+2016-03-17T18:28:40.200Z - info: memory stats, 2016-03-17T20:28:40+02:00 info: {"num_full_gc":2,"num_inc_gc":23,"heap_compactions":2,"usage_trend":0,"estimated_base":83706224,"current_base":83706224,"min":0,"max":0}
+2016-03-17T18:28:41.035Z - info: SOCKET_CONNECTION:/#u62gozin0CzrcdNuAAAB process pid: 5409 workerId: master
+2016-03-17T18:28:41.306Z - info: CONNECTION: process pid: 5409 workerId: master
+2016-03-17T18:32:04.885Z - info: SOCKET_CONNECTION:/#Yr-shujtgumY7wv8AAAA process pid: 6213 workerId: master
+2016-03-17T18:32:13.103Z - info: CONNECTION: process pid: 6213 workerId: master
+2016-03-17T18:32:13.257Z - info: memory stats, 2016-03-17T20:32:13+02:00 info: {"num_full_gc":1,"num_inc_gc":24,"heap_compactions":1,"usage_trend":0,"estimated_base":239893856,"current_base":239893856,"min":0,"max":0}
+2016-03-17T18:32:13.257Z - info: memory stats, 2016-03-17T20:32:13+02:00 info: {"num_full_gc":2,"num_inc_gc":24,"heap_compactions":2,"usage_trend":0,"estimated_base":91328656,"current_base":91328656,"min":0,"max":0}
+2016-03-17T18:32:13.259Z - info: SOCKET_CONNECTION:/#U0NUFwacLJXQH73IAAAB process pid: 6213 workerId: master
+2016-03-17T18:35:33.439Z - info: SOCKET_CONNECTION:/#NrCsC7CVDgCX6A91AAAA process pid: 6357 workerId: master
+2016-03-17T18:35:41.106Z - info: SOCKET_CONNECTION:/#Fj-FB1eYNYqRAoZ3AAAB process pid: 6357 workerId: master
+2016-03-17T18:35:41.116Z - info: memory stats, 2016-03-17T20:35:41+02:00 info: {"num_full_gc":1,"num_inc_gc":24,"heap_compactions":1,"usage_trend":0,"estimated_base":235170248,"current_base":235170248,"min":0,"max":0}
+2016-03-17T18:35:41.117Z - info: memory stats, 2016-03-17T20:35:41+02:00 info: {"num_full_gc":2,"num_inc_gc":24,"heap_compactions":2,"usage_trend":0,"estimated_base":86094832,"current_base":86094832,"min":0,"max":0}
+2016-03-17T18:35:41.187Z - info: CONNECTION: process pid: 6357 workerId: master
+2016-03-17T18:40:00.502Z - info: cron clients: 0 process pid: 6503 workerId: master
+2016-03-17T18:45:00.614Z - info: cron clients: 0 process pid: 6503 workerId: master
+2016-03-17T18:50:00.702Z - info: cron clients: 0 process pid: 6503 workerId: master
+2016-03-17T18:55:00.509Z - info: cron clients: 0 process pid: 6948 workerId: master
+2016-03-17T19:00:00.343Z - info: cron clients: 0 process pid: 7202 workerId: master
+2016-03-17T19:00:14.173Z - info: memory stats, 2016-03-17T21:00:14+02:00 info: {"num_full_gc":1,"num_inc_gc":12,"heap_compactions":1,"usage_trend":0,"estimated_base":103206392,"current_base":103206392,"min":0,"max":0}
+2016-03-17T19:00:14.330Z - info: memory stats, 2016-03-17T21:00:14+02:00 info: {"num_full_gc":2,"num_inc_gc":12,"heap_compactions":2,"usage_trend":0,"estimated_base":77442744,"current_base":77442744,"min":0,"max":0}
+2016-03-17T19:01:23.835Z - info: SOCKET_CONNECTION:/#rN__0Tp-Au1KL-XwAAAA process pid: 7302 workerId: master
+2016-03-17T19:01:31.669Z - info: SOCKET_CONNECTION:/#hh_5ss9VHJz0gpqLAAAB process pid: 7302 workerId: master
+2016-03-17T19:01:31.992Z - info: CONNECTION: process pid: 7302 workerId: master
+2016-03-17T19:01:36.084Z - info: memory stats, 2016-03-17T21:01:36+02:00 info: {"num_full_gc":1,"num_inc_gc":25,"heap_compactions":1,"usage_trend":0,"estimated_base":247001000,"current_base":247001000,"min":0,"max":0}
+2016-03-17T19:01:36.085Z - info: memory stats, 2016-03-17T21:01:36+02:00 info: {"num_full_gc":2,"num_inc_gc":25,"heap_compactions":2,"usage_trend":0,"estimated_base":83151920,"current_base":83151920,"min":0,"max":0}
+2016-03-17T19:08:17.614Z - info: CONNECTION: process pid: 7527 workerId: master
+2016-03-17T19:08:21.397Z - info: SOCKET_CONNECTION:/#yZAKOWlTTzezAv6vAAAA process pid: 7527 workerId: master
+2016-03-17T19:08:30.470Z - info: memory stats, 2016-03-17T21:08:30+02:00 info: {"num_full_gc":1,"num_inc_gc":24,"heap_compactions":1,"usage_trend":0,"estimated_base":237168352,"current_base":237168352,"min":0,"max":0}
+2016-03-17T19:08:30.471Z - info: memory stats, 2016-03-17T21:08:30+02:00 info: {"num_full_gc":2,"num_inc_gc":24,"heap_compactions":2,"usage_trend":0,"estimated_base":86565944,"current_base":86565944,"min":0,"max":0}
+2016-03-17T19:10:00.282Z - info: cron clients: 1 process pid: 7527 workerId: master
+2016-03-17T19:10:02.534Z - info: memory stats, 2016-03-17T21:10:02+02:00 info: {"num_full_gc":3,"num_inc_gc":51,"heap_compactions":3,"usage_trend":0,"estimated_base":153441224,"current_base":153441224,"min":153441224,"max":153441224}
+2016-03-17T19:10:02.534Z - info: memory stats, 2016-03-17T21:10:02+02:00 info: {"num_full_gc":4,"num_inc_gc":51,"heap_compactions":4,"usage_trend":0,"estimated_base":84633504,"current_base":84633504,"min":84633504,"max":153441224}
+2016-03-17T19:15:00.292Z - info: cron clients: 1 process pid: 7527 workerId: master
+2016-03-17T19:15:04.143Z - info: memory stats, 2016-03-17T21:15:04+02:00 info: {"num_full_gc":5,"num_inc_gc":120,"heap_compactions":5,"usage_trend":0,"estimated_base":99614128,"current_base":99614128,"min":84633504,"max":153441224}
+2016-03-17T19:15:04.143Z - info: memory stats, 2016-03-17T21:15:04+02:00 info: {"num_full_gc":6,"num_inc_gc":120,"heap_compactions":6,"usage_trend":0,"estimated_base":84859848,"current_base":84859848,"min":84633504,"max":153441224}
+2016-03-17T19:20:00.300Z - info: cron clients: 1 process pid: 7527 workerId: master
+2016-03-17T19:20:02.202Z - info: memory stats, 2016-03-17T21:20:02+02:00 info: {"num_full_gc":7,"num_inc_gc":212,"heap_compactions":7,"usage_trend":0,"estimated_base":100096168,"current_base":100096168,"min":84633504,"max":153441224}
+2016-03-17T19:20:02.202Z - info: memory stats, 2016-03-17T21:20:02+02:00 info: {"num_full_gc":8,"num_inc_gc":212,"heap_compactions":8,"usage_trend":0,"estimated_base":79163128,"current_base":79163128,"min":79163128,"max":153441224}
+2016-03-17T19:25:00.336Z - info: cron clients: 1 process pid: 7527 workerId: master
+2016-03-17T19:30:00.349Z - info: cron clients: 1 process pid: 7527 workerId: master
+2016-03-17T19:30:02.454Z - info: memory stats, 2016-03-17T21:30:02+02:00 info: {"num_full_gc":9,"num_inc_gc":390,"heap_compactions":9,"usage_trend":0,"estimated_base":101729984,"current_base":101729984,"min":79163128,"max":153441224}
+2016-03-17T19:30:02.455Z - info: memory stats, 2016-03-17T21:30:02+02:00 info: {"num_full_gc":10,"num_inc_gc":390,"heap_compactions":10,"usage_trend":0,"estimated_base":99962247,"current_base":84052616,"min":79163128,"max":153441224}
+2016-03-17T23:04:48.975Z - info: SOCKET_CONNECTION:/#aYFLH5SCLbkNUVwDAAAA process pid: 16741 workerId: master
+2016-03-17T23:04:49.364Z - info: CONNECTION: process pid: 16741 workerId: master
+2016-03-17T23:04:51.942Z - info: memory stats, 2016-03-18T01:04:51+02:00 info: {"num_full_gc":1,"num_inc_gc":9,"heap_compactions":1,"usage_trend":0,"estimated_base":121756208,"current_base":121756208,"min":0,"max":0}
+2016-03-17T23:04:51.942Z - info: memory stats, 2016-03-18T01:04:51+02:00 info: {"num_full_gc":2,"num_inc_gc":9,"heap_compactions":2,"usage_trend":0,"estimated_base":83683432,"current_base":83683432,"min":0,"max":0}
+2016-03-17T23:04:55.592Z - info: memory stats, 2016-03-18T01:04:55+02:00 info: {"num_full_gc":3,"num_inc_gc":21,"heap_compactions":3,"usage_trend":0,"estimated_base":181302456,"current_base":181302456,"min":181302456,"max":181302456}
+2016-03-17T23:04:55.592Z - info: memory stats, 2016-03-18T01:04:55+02:00 info: {"num_full_gc":4,"num_inc_gc":21,"heap_compactions":4,"usage_trend":0,"estimated_base":82088536,"current_base":82088536,"min":82088536,"max":181302456}
+2016-03-17T23:05:00.406Z - info: cron clients: 1 process pid: 16741 workerId: master
+2016-03-17T23:10:00.416Z - info: cron clients: 1 process pid: 16741 workerId: master
+2016-03-18T07:36:50.908Z - info: memory stats, 2016-03-18T09:36:50+02:00 info: {"num_full_gc":1,"num_inc_gc":6,"heap_compactions":1,"usage_trend":0,"estimated_base":104321696,"current_base":104321696,"min":0,"max":0}
+2016-03-18T07:36:50.909Z - info: memory stats, 2016-03-18T09:36:50+02:00 info: {"num_full_gc":2,"num_inc_gc":6,"heap_compactions":2,"usage_trend":0,"estimated_base":76740920,"current_base":76740920,"min":0,"max":0}
+2016-03-18T07:36:51.698Z - info: SOCKET_CONNECTION:/#I9gjcuTl1TqIko-SAAAA process pid: 23830 workerId: master
+2016-03-18T07:36:51.938Z - info: CONNECTION: process pid: 23830 workerId: master
+2016-03-18T07:36:55.626Z - info: memory stats, 2016-03-18T09:36:55+02:00 info: {"num_full_gc":3,"num_inc_gc":13,"heap_compactions":3,"usage_trend":0,"estimated_base":106103936,"current_base":106103936,"min":106103936,"max":106103936}
+2016-03-18T07:36:55.627Z - info: memory stats, 2016-03-18T09:36:55+02:00 info: {"num_full_gc":4,"num_inc_gc":13,"heap_compactions":4,"usage_trend":0,"estimated_base":79498976,"current_base":79498976,"min":79498976,"max":106103936}
+2016-03-18T07:36:56.111Z - info: SOCKET_CONNECTION:/#kmxj4hspyUUAF3lkAAAB process pid: 23830 workerId: master
+2016-03-18T07:36:56.320Z - info: CONNECTION: process pid: 23830 workerId: master
+2016-03-18T08:12:46.241Z - info: SOCKET_CONNECTION:/#vsWqX3uS_YO5OAoTAAAA process pid: 25117 workerId: master
+2016-03-18T08:13:14.941Z - info: SOCKET_CONNECTION:/#vo35HbaENcq7Vl3cAAAB process pid: 25117 workerId: master
+2016-03-18T08:13:17.998Z - info: origin:http://localhost:3000
+2016-03-18T08:13:17.999Z - info: rememberMe: undefined
+2016-03-18T08:13:22.282Z - info: memory stats, 2016-03-18T10:13:22+02:00 info: {"num_full_gc":1,"num_inc_gc":10,"heap_compactions":1,"usage_trend":0,"estimated_base":134286528,"current_base":134286528,"min":0,"max":0}
+2016-03-18T08:13:22.343Z - info: memory stats, 2016-03-18T10:13:22+02:00 info: {"num_full_gc":2,"num_inc_gc":11,"heap_compactions":2,"usage_trend":0,"estimated_base":76929656,"current_base":76929656,"min":0,"max":0}
+2016-03-18T08:13:22.978Z - info: SOCKET_CONNECTION:/#V6KbTjNm3BkUlKIeAAAC process pid: 25117 workerId: master
+2016-03-18T08:13:23.395Z - info: CONNECTION: process pid: 25117 workerId: master
+2016-03-18T08:13:29.047Z - info: memory stats, 2016-03-18T10:13:29+02:00 info: {"num_full_gc":3,"num_inc_gc":15,"heap_compactions":3,"usage_trend":0,"estimated_base":121112744,"current_base":121112744,"min":121112744,"max":121112744}
+2016-03-18T08:13:29.047Z - info: memory stats, 2016-03-18T10:13:29+02:00 info: {"num_full_gc":4,"num_inc_gc":15,"heap_compactions":4,"usage_trend":0,"estimated_base":79619168,"current_base":79619168,"min":79619168,"max":121112744}
+2016-03-18T08:13:29.047Z - info: memory stats, 2016-03-18T10:13:29+02:00 info: {"num_full_gc":5,"num_inc_gc":25,"heap_compactions":5,"usage_trend":0,"estimated_base":156752104,"current_base":156752104,"min":79619168,"max":156752104}
+2016-03-18T08:13:29.048Z - info: memory stats, 2016-03-18T10:13:29+02:00 info: {"num_full_gc":6,"num_inc_gc":25,"heap_compactions":6,"usage_trend":0,"estimated_base":77302256,"current_base":77302256,"min":77302256,"max":156752104}
+2016-03-18T08:13:46.526Z - info: SOCKET_CONNECTION:/#JSBgJSyZ26QLp5pdAAAD process pid: 25117 workerId: master
+2016-03-18T08:13:46.705Z - info: CONNECTION: process pid: 25117 workerId: master
+2016-03-18T08:14:08.435Z - error: Invalid URI "/utilitymanager/api/v1/login"
+2016-03-18T08:15:03.090Z - info: SOCKET_CONNECTION:/#cz66u4OKeos0BZHdAAAA process pid: 25241 workerId: master
+2016-03-18T08:15:15.776Z - info: memory stats, 2016-03-18T10:15:15+02:00 info: {"num_full_gc":1,"num_inc_gc":25,"heap_compactions":1,"usage_trend":0,"estimated_base":232707736,"current_base":232707736,"min":0,"max":0}
+2016-03-18T08:15:15.777Z - info: memory stats, 2016-03-18T10:15:15+02:00 info: {"num_full_gc":2,"num_inc_gc":25,"heap_compactions":2,"usage_trend":0,"estimated_base":86583968,"current_base":86583968,"min":0,"max":0}
+2016-03-18T08:15:16.797Z - info: SOCKET_CONNECTION:/#6S8xTAgRLex55CTwAAAB process pid: 25241 workerId: master
+2016-03-18T08:15:17.165Z - info: CONNECTION: process pid: 25241 workerId: master
+2016-03-18T08:20:00.988Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:20:06.088Z - info: memory stats, 2016-03-18T10:20:06+02:00 info: {"num_full_gc":3,"num_inc_gc":78,"heap_compactions":3,"usage_trend":0,"estimated_base":119943376,"current_base":119943376,"min":119943376,"max":119943376}
+2016-03-18T08:20:06.088Z - info: memory stats, 2016-03-18T10:20:06+02:00 info: {"num_full_gc":4,"num_inc_gc":78,"heap_compactions":4,"usage_trend":0,"estimated_base":85864800,"current_base":85864800,"min":85864800,"max":119943376}
+2016-03-18T08:25:00.990Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:25:03.317Z - info: memory stats, 2016-03-18T10:25:03+02:00 info: {"num_full_gc":5,"num_inc_gc":160,"heap_compactions":5,"usage_trend":0,"estimated_base":96900064,"current_base":96900064,"min":85864800,"max":119943376}
+2016-03-18T08:25:03.318Z - info: memory stats, 2016-03-18T10:25:03+02:00 info: {"num_full_gc":6,"num_inc_gc":160,"heap_compactions":6,"usage_trend":0,"estimated_base":81241648,"current_base":81241648,"min":81241648,"max":119943376}
+2016-03-18T08:30:00.995Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:30:03.475Z - info: memory stats, 2016-03-18T10:30:03+02:00 info: {"num_full_gc":7,"num_inc_gc":231,"heap_compactions":7,"usage_trend":0,"estimated_base":97133960,"current_base":97133960,"min":81241648,"max":119943376}
+2016-03-18T08:30:03.478Z - info: memory stats, 2016-03-18T10:30:03+02:00 info: {"num_full_gc":8,"num_inc_gc":231,"heap_compactions":8,"usage_trend":0,"estimated_base":76233024,"current_base":76233024,"min":76233024,"max":119943376}
+2016-03-18T08:35:01.001Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:35:03.548Z - info: memory stats, 2016-03-18T10:35:03+02:00 info: {"num_full_gc":9,"num_inc_gc":325,"heap_compactions":9,"usage_trend":0,"estimated_base":91972400,"current_base":91972400,"min":76233024,"max":119943376}
+2016-03-18T08:35:03.548Z - info: memory stats, 2016-03-18T10:35:03+02:00 info: {"num_full_gc":10,"num_inc_gc":325,"heap_compactions":10,"usage_trend":0,"estimated_base":90302399,"current_base":75272392,"min":75272392,"max":119943376}
+2016-03-18T08:40:01.016Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:40:03.569Z - info: memory stats, 2016-03-18T10:40:03+02:00 info: {"num_full_gc":11,"num_inc_gc":410,"heap_compactions":11,"usage_trend":4763.9,"estimated_base":90142285,"current_base":88701264,"min":75272392,"max":119943376}
+2016-03-18T08:40:03.569Z - info: memory stats, 2016-03-18T10:40:03+02:00 info: {"num_full_gc":12,"num_inc_gc":410,"heap_compactions":12,"usage_trend":4822.6,"estimated_base":88820559,"current_base":76925032,"min":75272392,"max":119943376}
+2016-03-18T08:45:00.040Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:45:01.548Z - info: memory stats, 2016-03-18T10:45:01+02:00 info: {"num_full_gc":13,"num_inc_gc":490,"heap_compactions":13,"usage_trend":4811.7,"estimated_base":89108527,"current_base":91700240,"min":75272392,"max":119943376}
+2016-03-18T08:45:01.988Z - info: memory stats, 2016-03-18T10:45:01+02:00 info: {"num_full_gc":14,"num_inc_gc":490,"heap_compactions":14,"usage_trend":4862.9,"estimated_base":87797215,"current_base":75995408,"min":75272392,"max":119943376}
+2016-03-18T08:50:00.043Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:50:01.814Z - info: memory stats, 2016-03-18T10:50:01+02:00 info: {"num_full_gc":15,"num_inc_gc":604,"heap_compactions":15,"usage_trend":4854.6,"estimated_base":88079717,"current_base":90622240,"min":75272392,"max":119943376}
+2016-03-18T08:50:01.814Z - info: memory stats, 2016-03-18T10:50:01+02:00 info: {"num_full_gc":16,"num_inc_gc":604,"heap_compactions":16,"usage_trend":4898.2,"estimated_base":86843745,"current_base":75720000,"min":75272392,"max":119943376}
+2016-03-18T08:55:00.064Z - info: cron clients: 1 process pid: 25241 workerId: master
+2016-03-18T08:55:01.931Z - info: memory stats, 2016-03-18T10:55:01+02:00 info: {"num_full_gc":17,"num_inc_gc":684,"heap_compactions":17,"usage_trend":4885.6,"estimated_base":87320073,"current_base":91607032,"min":75272392,"max":119943376}
+2016-03-18T08:55:01.931Z - info: memory stats, 2016-03-18T10:55:01+02:00 info: {"num_full_gc":18,"num_inc_gc":684,"heap_compactions":18,"usage_trend":4921.6,"estimated_base":86202111,"current_base":76140456,"min":75272392,"max":119943376}
+2016-03-21T08:32:33.220Z - info: SOCKET_CONNECTION:/#eg1pGoTLXJu7nz1BAAAA process pid: 1148 workerId: master
+2016-03-21T08:32:48.045Z - info: memory stats, 2016-03-21T10:32:48+02:00 info: {"num_full_gc":1,"num_inc_gc":24,"heap_compactions":1,"usage_trend":0,"estimated_base":250169240,"current_base":250169240,"min":0,"max":0}
+2016-03-21T08:32:48.045Z - info: memory stats, 2016-03-21T10:32:48+02:00 info: {"num_full_gc":2,"num_inc_gc":24,"heap_compactions":2,"usage_trend":0,"estimated_base":81488376,"current_base":81488376,"min":0,"max":0}
+2016-03-21T08:34:44.378Z - info: SOCKET_CONNECTION:/#x7dNZLAfCZHr1JL9AAAA process pid: 1247 workerId: master
+2016-03-21T08:34:50.277Z - info: memory stats, 2016-03-21T10:34:50+02:00 info: {"num_full_gc":1,"num_inc_gc":24,"heap_compactions":1,"usage_trend":0,"estimated_base":229858408,"current_base":229858408,"min":0,"max":0}
+2016-03-21T08:34:50.277Z - info: memory stats, 2016-03-21T10:34:50+02:00 info: {"num_full_gc":2,"num_inc_gc":24,"heap_compactions":2,"usage_trend":0,"estimated_base":80649144,"current_base":80649144,"min":0,"max":0}
+2016-03-21T08:35:00.552Z - info: cron clients: 1 process pid: 1247 workerId: master
+2016-03-21T08:40:00.573Z - info: cron clients: 1 process pid: 1247 workerId: master
+2016-03-21T08:40:05.975Z - info: memory stats, 2016-03-21T10:40:05+02:00 info: {"num_full_gc":3,"num_inc_gc":83,"heap_compactions":3,"usage_trend":0,"estimated_base":107218480,"current_base":107218480,"min":107218480,"max":107218480}
+2016-03-21T08:40:05.976Z - info: memory stats, 2016-03-21T10:40:05+02:00 info: {"num_full_gc":4,"num_inc_gc":83,"heap_compactions":4,"usage_trend":0,"estimated_base":88394816,"current_base":88394816,"min":88394816,"max":107218480}
+2016-03-21T08:44:49.696Z - info: CONNECTION: process pid: 1695 workerId: master
+2016-03-21T08:44:50.696Z - info: SOCKET_CONNECTION:/#_s3O-IILR3h0h4D_AAAA process pid: 1695 workerId: master
+2016-03-21T08:44:59.535Z - info: memory stats, 2016-03-21T10:44:59+02:00 info: {"num_full_gc":1,"num_inc_gc":23,"heap_compactions":1,"usage_trend":0,"estimated_base":237390840,"current_base":237390840,"min":0,"max":0}
+2016-03-21T08:44:59.535Z - info: memory stats, 2016-03-21T10:44:59+02:00 info: {"num_full_gc":2,"num_inc_gc":23,"heap_compactions":2,"usage_trend":0,"estimated_base":87211432,"current_base":87211432,"min":0,"max":0}
+2016-03-21T08:45:00.145Z - info: cron clients: 1 process pid: 1695 workerId: master
